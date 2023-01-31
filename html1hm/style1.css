@@ -1,0 +1,36 @@
+div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;
+    background-color: aqua;
+    margin: 2rem;
+    padding: 2rem;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+div.red{
+    color: rgb(204, 138, 138);
+    font-style: oblique;
+    background-color: grey;
+}
+div.blue{
+    color: blue;
+    background-color: yellow;
+    font-size: larger;
+}
+div.green{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    border-radius: 5px;
+
+}
+
+p,pre,#orange{
+    background-color: beige;
+    margin: 2rem;
+    padding: 2rem;
+    border: 2px solid green;
+    color: rgb(98, 39, 39);
+    
+}
